@@ -26,8 +26,10 @@ public class LifeScript : MonoBehaviour
         if (life < prevLife) 
         {
             int lifeDifference = prevLife - life;
+            prevLife = life;
             for (int i = 0; i < lifeDifference; i++)
             {
+                
                 DestroyHeart();
             }
 
@@ -35,6 +37,7 @@ public class LifeScript : MonoBehaviour
         else if (life > prevLife) 
         {
             int lifeDifference = life - prevLife;
+            prevLife = life;
             for (int i = 0; i < lifeDifference; i++) 
             {
                 AddHeart(hearts.Count);
