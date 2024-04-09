@@ -3554,6 +3554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isHeadingLeft: 0
+  lifeheader: {fileID: 862033876}
 --- !u!1 &974780518
 GameObject:
   m_ObjectHideFlags: 0

@@ -54,5 +54,14 @@ public class LifeScript : MonoBehaviour
     {
         GameObject heart = hearts[hearts.Count-1];
         Destroy(heart);
+        hearts.Remove(heart);
+    }
+    public void AddLife()
+    {
+        life++;
+    }
+    public void DecreaseLife()
+    {
+        life--;
     }
 }

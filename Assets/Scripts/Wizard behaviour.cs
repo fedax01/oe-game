@@ -10,12 +10,15 @@ public class Wizardbehaviour : MonoBehaviour
     private float velocitySide = 2;
     public bool isHeadingLeft = false;
     private Vector3 wizardSprite;
+    public GameObject lifeheader;
+    private LifeScript lifeScript;
     // Start is called before the first frame update
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
         wizardSprite = transform.localScale;
-
+        lifeScript = lifeheader.GetComponent<LifeScript>();
+        
     }
 
     // Update is called once per frame
@@ -67,6 +70,10 @@ public class Wizardbehaviour : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground") && jumping == true && IsBelow(collision.gameObject) == false)
         {
             jumping = false;
+        }
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            lifeScript.DecreaseLife();
         }
         
         print("Entered collision with " + collision.gameObject.name);
