@@ -23,8 +23,7 @@ public class KilledSlimeCounter : MonoBehaviour
     public void CountSlimes()
     {
         counter++;
-        print(counter);
-        
+        PlayerPrefs.SetInt("score", counter);
         text.text = "Pontok :" +" "+ counter.ToString();
     }
 }
