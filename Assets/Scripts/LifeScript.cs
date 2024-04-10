@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class LifeScript : MonoBehaviour
@@ -32,6 +33,11 @@ public class LifeScript : MonoBehaviour
                 
                 DestroyHeart();
             }
+            print(life);
+            if (life == 0)
+            {
+                SceneManager.LoadScene("GameOver");
+            }
 
         }
         else if (life > prevLife) 
@@ -52,7 +58,19 @@ public class LifeScript : MonoBehaviour
     }
     public void DestroyHeart()
     {
-        GameObject heart = hearts[hearts.Count-1];
-        Destroy(heart);
+        if(hearts.Count > 0)
+        {
+            GameObject heart = hearts[hearts.Count - 1];
+            Destroy(heart);
+            hearts.Remove(heart);
+        }
+    }
+    public void AddLife()
+    {
+        life++;
+    }
+    public void DecreaseLife()
+    {
+        life--;
     }
 }

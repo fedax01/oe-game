@@ -7,7 +7,7 @@ using UnityEngine;
 public class SlimeSpawner : MonoBehaviour
 {
     public GameObject slime;
-    public float spawnInterval = 2f;
+    public float spawnInterval = 3.5f;
     private float spawnTimer = 0f;
     private System.Random rnd = new System.Random();
     private Vector3[] spawnPositions =  new Vector3[]
