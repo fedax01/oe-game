@@ -1,0 +1,3348 @@
+fileFormatVersion: 2
+guid: 640aadc54d4f9314cb9358eff2d160fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4a490520430bd40af1cfd2e8799eac
+      internalID: -945195656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489df1fa1b224f54097c087fef094a9a
+      internalID: -450669981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dcf051b3c41e84bb9728f3b39f29ad
+      internalID: -333562316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844023092eeb5c44ebf4e9b45428844f
+      internalID: -2008017399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2178846034aa5c46a20afca3e8fb8bc
+      internalID: 1640048139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741212ca2699cf4498e0dc322177378
+      internalID: -582473271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4800
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad47c59fad7be84087eced90fe9e621
+      internalID: 2049193250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4e02d79fe7d243b8bff6e59cf1955
+      internalID: -1208642638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c521413dc4b83054390b459bc62137ea
+      internalID: 1018101947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd2e9d7e854cd34fbe6b3b50c7be81e
+      internalID: 1545153805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cef7b7b0302fc4981584a8aa811c68
+      internalID: -1939963714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd44469ec12bd54a864eac33ced404a
+      internalID: -1060988687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f89b04f8a3644b91c9accd5889a2f
+      internalID: -1394784635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4560
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed3b1b5de7ae8458daeac46ae7bd31
+      internalID: 2058038011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197768711a1f7494b888e9f9a264782a
+      internalID: 1503772849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc93668de34cd4ba1cfd1a12525b1f
+      internalID: 1000509668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419e859c4765b24a9405dd9d2247688
+      internalID: -1823230458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021086209ac71043865faedb0d2f969
+      internalID: -857698934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7cc92a0986d364fbb95ecbd0edb823
+      internalID: 1951510422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c594618cd1f3c42b6df2bc8ab41167
+      internalID: 1503241786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4320
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe55d41cb5b8c449b1942842360d1e4
+      internalID: 1526898345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d7e18410c8c447a23c517ad6917e8
+      internalID: 427139682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264c42219d24db41bf17d995335296d
+      internalID: -111196951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b3afc3bf2fd0a4b9d7cb7b125dd217
+      internalID: 1160530837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963de15e1eaacde44a20cdbe88360ae4
+      internalID: 1150714504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f90683d50a62479e4aa0c21d050d4
+      internalID: -1688016170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ff61b78c1b104e9bef3b36d21cf9d
+      internalID: -1849937062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_27
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4080
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c2e459b38a6249b216188a15b900b
+      internalID: -1602077529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786bb62939135d942a3bdb23769446a5
+      internalID: 1871458405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34b0ee203eb6b45a5402f5f51a50a4
+      internalID: -133418605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094873c2cb9f7a94badba354ffb8a61d
+      internalID: 675404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf18364d6f3d3b41a696a3e1aed6f63
+      internalID: 264363353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f510f53fb93e488102b178a1b0c12
+      internalID: -398387119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebbc21c98f10b94c8d5cfe46b7e0f8c
+      internalID: 1711839281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3840
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e24080dc4090446be3c0562455b01c
+      internalID: 1512608501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49868457b6acf0d44951511274af5b17
+      internalID: -968665332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e963953e9d02ba4ea7230a2c3968b7b
+      internalID: 1717907456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_37
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062a5d8306732de44899de0f97a694fd
+      internalID: 1058585165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92d7d71a662d54392cf4c9305043de
+      internalID: -1750235745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d16c20a120175478db2c9e5a7d9eb3
+      internalID: -1119044131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f17265a6cbfa4e8721abfa4428f1a
+      internalID: -323168210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_41
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3600
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9a5df9121a8e4db77176ee5d402ad
+      internalID: 309628318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccdb9ecc6d38154fbb6d52a98c40fbf
+      internalID: 43496448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17f592a61f2784e887a93ecb46fae4
+      internalID: -819205418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_44
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c958c4e83a8fa24f83237f5f65df634
+      internalID: 920189892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062cd205417441241aac200d7cae6492
+      internalID: 55662662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2adf3a03234c543aed90cc4a7f0eef
+      internalID: -1319473002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27050019956559b4ca0afcecf6aa3e03
+      internalID: -1290596240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_48
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3360
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee3036f102d9b42adfc6c59c5f5a22
+      internalID: -1130129111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3bf850586cd74e8147015ff098320
+      internalID: 2055989550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f3eee3bc48aec42a9fd7d807f22391
+      internalID: -1515535712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_51
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfeee10b0ae509448437a2d693c6a42
+      internalID: 1201605663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5e63074a1d3946a1c62cb8899e8e6
+      internalID: -660763892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920c2cff5c37a745803cab5fcf05476
+      internalID: -1122276759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_54
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44220202b4135df4690e589a07697ada
+      internalID: -51773935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_55
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3120
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d39586e310d8b46a7442983a7bdad4
+      internalID: 741322275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b1ec52d5c6a0479cce030131f2890
+      internalID: -453932780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_57
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81acf32cb2bada64cab69062ece29740
+      internalID: -1570499759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_58
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55e7bbc89eabe498efa16c94bf56f3
+      internalID: 1600202817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a88d58c6ba2d49a474a45f2c5f3aa
+      internalID: 1967083206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236539ccc6d68b8449bafd5beb3ca950
+      internalID: -1178526388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_61
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b0deff30bec74a9adfcf262e9d5ec
+      internalID: 545557588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_62
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2880
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085cd112e4c4464398b82beb9262818
+      internalID: -1149658045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb8f8d1ba0f056439d84a2c032729eb
+      internalID: 1323577480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_64
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de82ec1a63c832449fb22e04f25ea30
+      internalID: -382691429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_65
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7818ccc2ac2ecf643af1113e238edb7a
+      internalID: -263163308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_66
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8169a7ccb1534c8dbefbe67ef2a04
+      internalID: 1355529547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830ff0384d0d374f88b46593169b4f5
+      internalID: -1478249250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_68
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecd082b4608af741bbb7e50ad14e5d9
+      internalID: -661445231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_69
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2640
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737ea0884b30e394c9f3678f3ccc1cc7
+      internalID: 1779844960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9ef2f4a5b7e6a4ea52933d540987ce
+      internalID: 973015769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_71
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f3ecc1e0cdc34ea6bdd62d6677cae
+      internalID: -1821907566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_72
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc96f726ead294385d287df7276dc6
+      internalID: 1122268387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a582b84121e4c45a9386b66e7cb72c
+      internalID: 1768047590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277fe96e3e6068e4aaf6caf77e3ad932
+      internalID: 1856507732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_75
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cbc5157f1fd9e49991adc695849643
+      internalID: 1428444573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_76
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2400
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9e5641c30b1641b74210cfc67dcc9
+      internalID: -519548120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e03398d33c61a469038f71063bd377
+      internalID: -404696267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6946913e75e991146807b9f969646219
+      internalID: -782214527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_79
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ceba256e5c35541a0636cef9fa067a
+      internalID: -1963020404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_80
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd4a267f1d2efa499ceb041d090814a
+      internalID: -657332438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd087ec3daa0ce24f88dc1608b602dba
+      internalID: 633194551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_82
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8f280dfab49046aec15c77895d653
+      internalID: 1269445045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_83
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2160
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df48bd019532b244a716893f8b269a3
+      internalID: -1063833346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eadbef05af07d64e85260f6879a7729
+      internalID: -153553258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_85
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cdd430868519448a96fff0968e54cd
+      internalID: -872038484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_86
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aea927c79555a43b428285c70b4faa
+      internalID: -1090138699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ae8fc9c4dc554d8efcb2b07429e1f
+      internalID: -1354495210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_88
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ae3a4e5ea00c47ab68e6a79a7a59f
+      internalID: -1514183803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_89
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e71fdb918dcc44b299e60e0c9a2da
+      internalID: 1539187242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_90
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1920
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4498e440005617e448a5a973308627bf
+      internalID: -418040605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d48b751c5dc8f4fa23b7d34b747c21
+      internalID: 1886440769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_92
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a78ccdf71add924eb5dfcb1cd2f4b4b
+      internalID: -1023529385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_93
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd37e46ce3037da438e28d23b49d2e7d
+      internalID: -1910313314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_94
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d84df1320afdc40add032902aeb56d
+      internalID: -962760662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_95
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c66920ed7a9143ba47829cfa50885
+      internalID: -56150541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_96
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57224479be6d90345a6423b3fc163e09
+      internalID: -118249404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_97
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1680
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e20c833470d2f418ba5ef072a96594
+      internalID: -2129689184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a25ea372172845845c064c0b94811
+      internalID: 1598465574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_99
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d835e10350da4e8cd7a5e4c3308d6
+      internalID: -522739718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_100
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c992514f310e46a8048b526d7e3cf
+      internalID: 1300246195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357d1c2e8e924c4190c41ea10ff7ed9
+      internalID: -1991956210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7fdc740f7fe7e47af66ea9336e2135
+      internalID: 2002579892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_103
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6089a8a1306c2342bfe935f78097510
+      internalID: -2128710074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_104
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1440
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9148ebfdca4e7244981917deedf8f47
+      internalID: 1519945480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a645ec1cf67e91142aabaec75e5149fe
+      internalID: -1961724566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0922e6dbb2e8e3b40aa31b449bf25ac4
+      internalID: -764294998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_107
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99babc6f8e6cfb48af75e93ee432dd4
+      internalID: -188118477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_108
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9602c4cc3c56814fb27710beb5f48f7
+      internalID: -2078822120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_109
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb59541aa86bf4da2699a530ab5a33
+      internalID: 811534020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_110
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ee75c53666784fb489053e80e0471
+      internalID: -1168672877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_111
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1200
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839506c141f743b4d875b3974e9b5382
+      internalID: 2052515577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442542fb205260e409a48fb0761bfdbb
+      internalID: -1891507727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c6ac9c373450429ac7e5922e53679
+      internalID: -89519236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_114
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef2e80675e137468ac5d89ec1ed493
+      internalID: 1689623048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbff8bcf8151e4f9ab1f64fa6fc90f
+      internalID: 1337833082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_116
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8438b483bbf9eb428140bf52043d5bf
+      internalID: 191757364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_117
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7dd4ab6b768934ab6746be4ce8e464
+      internalID: 1457707167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_118
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 960
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5dbbe6653efe41a660238c5cf24de
+      internalID: 190704856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270aeaa72e84cf4793afb2bc9d81caa
+      internalID: -1769942639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_120
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5592a032f8ba24da72cddc2e49b6f0
+      internalID: -1510344715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_121
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573180bb2be87e749a500f4c963da408
+      internalID: 950377247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_122
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab22ab694bf1004cb0cb26587227d32
+      internalID: 664481914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd967e65c075042b0bcf2611c490b3
+      internalID: -2007685519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_124
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046fe9d063c97744bb7130d82acfefa8
+      internalID: 1874059171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_125
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 720
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd70e2cf13a93864795f9d0847a83bde
+      internalID: -241785886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10960f19b1ed7e408a7054dc194875c
+      internalID: 591580171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_127
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7781bf17dc4384438ca0e3ce64039d8
+      internalID: -1015030392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_128
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253f45caf73e4b4fb4e0ba94c8d44cf
+      internalID: 1006789326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_129
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad6cfff7a6c0645b0ad1b006dc677c
+      internalID: -1173684467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_130
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c19f1f049a1784caf6f27246d4b817
+      internalID: -1275048568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_131
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a393a41f4c3f5f94eb79ad2362a3e341
+      internalID: 1480365350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_132
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 480
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55462305b8c93ad409dd0e21cfd22883
+      internalID: -1633471514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc2806dfc3ab6e4fb0745f39cc74458
+      internalID: 1583662427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_134
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb837b4e5737f54086c9f16fb43f806
+      internalID: -16189684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_135
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd63834c2d3e9945bc2da10ced764e9
+      internalID: -42611029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_136
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8471bc1a66acf5419f91b63fa6a3bd2
+      internalID: 2100220255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_137
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e68d62af041ab4c8ee3d2d7aa7b0e2
+      internalID: 1669112574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_138
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c8c59a82f67840a40881020e438a3
+      internalID: -978565173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_139
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 240
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d97edd56033544b8194ba9b70cc63
+      internalID: -1348451898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c411e50e9d8eb478f4be3b3ded6230
+      internalID: -1176836591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_141
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c2461f1b3b8f4899225f92bb6feb9
+      internalID: 1936771548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_142
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b2748d2e806734ca1336ee9fb032bf
+      internalID: 1869306390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_143
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c4ef7c2070e247a3ec092c7110624
+      internalID: 831682511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_144
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f26e8009cf484f8f5490b001fa43c
+      internalID: 1429054792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_145
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bde1557a8ac84697a5a7e3ba0f6a5
+      internalID: -152289370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled video - Made with Clipchamp (1)_146
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0
+        width: 426
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859a015c5dfec54a97b3b9b4d5ac1de
+      internalID: 1154381688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Untitled video - Made with Clipchamp (1)_0: -945195656
+      Untitled video - Made with Clipchamp (1)_1: -450669981
+      Untitled video - Made with Clipchamp (1)_10: -1939963714
+      Untitled video - Made with Clipchamp (1)_100: 1300246195
+      Untitled video - Made with Clipchamp (1)_101: -1991956210
+      Untitled video - Made with Clipchamp (1)_102: 2002579892
+      Untitled video - Made with Clipchamp (1)_103: -2128710074
+      Untitled video - Made with Clipchamp (1)_104: 1519945480
+      Untitled video - Made with Clipchamp (1)_105: -1961724566
+      Untitled video - Made with Clipchamp (1)_106: -764294998
+      Untitled video - Made with Clipchamp (1)_107: -188118477
+      Untitled video - Made with Clipchamp (1)_108: -2078822120
+      Untitled video - Made with Clipchamp (1)_109: 811534020
+      Untitled video - Made with Clipchamp (1)_11: -1060988687
+      Untitled video - Made with Clipchamp (1)_110: -1168672877
+      Untitled video - Made with Clipchamp (1)_111: 2052515577
+      Untitled video - Made with Clipchamp (1)_112: -1891507727
+      Untitled video - Made with Clipchamp (1)_113: -89519236
+      Untitled video - Made with Clipchamp (1)_114: 1689623048
+      Untitled video - Made with Clipchamp (1)_115: 1337833082
+      Untitled video - Made with Clipchamp (1)_116: 191757364
+      Untitled video - Made with Clipchamp (1)_117: 1457707167
+      Untitled video - Made with Clipchamp (1)_118: 190704856
+      Untitled video - Made with Clipchamp (1)_119: -1769942639
+      Untitled video - Made with Clipchamp (1)_12: -1394784635
+      Untitled video - Made with Clipchamp (1)_120: -1510344715
+      Untitled video - Made with Clipchamp (1)_121: 950377247
+      Untitled video - Made with Clipchamp (1)_122: 664481914
+      Untitled video - Made with Clipchamp (1)_123: -2007685519
+      Untitled video - Made with Clipchamp (1)_124: 1874059171
+      Untitled video - Made with Clipchamp (1)_125: -241785886
+      Untitled video - Made with Clipchamp (1)_126: 591580171
+      Untitled video - Made with Clipchamp (1)_127: -1015030392
+      Untitled video - Made with Clipchamp (1)_128: 1006789326
+      Untitled video - Made with Clipchamp (1)_129: -1173684467
+      Untitled video - Made with Clipchamp (1)_13: 2058038011
+      Untitled video - Made with Clipchamp (1)_130: -1275048568
+      Untitled video - Made with Clipchamp (1)_131: 1480365350
+      Untitled video - Made with Clipchamp (1)_132: -1633471514
+      Untitled video - Made with Clipchamp (1)_133: 1583662427
+      Untitled video - Made with Clipchamp (1)_134: -16189684
+      Untitled video - Made with Clipchamp (1)_135: -42611029
+      Untitled video - Made with Clipchamp (1)_136: 2100220255
+      Untitled video - Made with Clipchamp (1)_137: 1669112574
+      Untitled video - Made with Clipchamp (1)_138: -978565173
+      Untitled video - Made with Clipchamp (1)_139: -1348451898
+      Untitled video - Made with Clipchamp (1)_14: 1503772849
+      Untitled video - Made with Clipchamp (1)_140: -1176836591
+      Untitled video - Made with Clipchamp (1)_141: 1936771548
+      Untitled video - Made with Clipchamp (1)_142: 1869306390
+      Untitled video - Made with Clipchamp (1)_143: 831682511
+      Untitled video - Made with Clipchamp (1)_144: 1429054792
+      Untitled video - Made with Clipchamp (1)_145: -152289370
+      Untitled video - Made with Clipchamp (1)_146: 1154381688
+      Untitled video - Made with Clipchamp (1)_15: 1000509668
+      Untitled video - Made with Clipchamp (1)_16: -1823230458
+      Untitled video - Made with Clipchamp (1)_17: -857698934
+      Untitled video - Made with Clipchamp (1)_18: 1951510422
+      Untitled video - Made with Clipchamp (1)_19: 1503241786
+      Untitled video - Made with Clipchamp (1)_2: -333562316
+      Untitled video - Made with Clipchamp (1)_20: 1526898345
+      Untitled video - Made with Clipchamp (1)_21: 427139682
+      Untitled video - Made with Clipchamp (1)_22: -111196951
+      Untitled video - Made with Clipchamp (1)_23: 1160530837
+      Untitled video - Made with Clipchamp (1)_24: 1150714504
+      Untitled video - Made with Clipchamp (1)_25: -1688016170
+      Untitled video - Made with Clipchamp (1)_26: -1849937062
+      Untitled video - Made with Clipchamp (1)_27: -1602077529
+      Untitled video - Made with Clipchamp (1)_28: 1871458405
+      Untitled video - Made with Clipchamp (1)_29: -133418605
+      Untitled video - Made with Clipchamp (1)_3: -2008017399
+      Untitled video - Made with Clipchamp (1)_30: 675404564
+      Untitled video - Made with Clipchamp (1)_31: 264363353
+      Untitled video - Made with Clipchamp (1)_32: -398387119
+      Untitled video - Made with Clipchamp (1)_33: 1711839281
+      Untitled video - Made with Clipchamp (1)_34: 1512608501
+      Untitled video - Made with Clipchamp (1)_35: -968665332
+      Untitled video - Made with Clipchamp (1)_36: 1717907456
+      Untitled video - Made with Clipchamp (1)_37: 1058585165
+      Untitled video - Made with Clipchamp (1)_38: -1750235745
+      Untitled video - Made with Clipchamp (1)_39: -1119044131
+      Untitled video - Made with Clipchamp (1)_4: 1640048139
+      Untitled video - Made with Clipchamp (1)_40: -323168210
+      Untitled video - Made with Clipchamp (1)_41: 309628318
+      Untitled video - Made with Clipchamp (1)_42: 43496448
+      Untitled video - Made with Clipchamp (1)_43: -819205418
+      Untitled video - Made with Clipchamp (1)_44: 920189892
+      Untitled video - Made with Clipchamp (1)_45: 55662662
+      Untitled video - Made with Clipchamp (1)_46: -1319473002
+      Untitled video - Made with Clipchamp (1)_47: -1290596240
+      Untitled video - Made with Clipchamp (1)_48: -1130129111
+      Untitled video - Made with Clipchamp (1)_49: 2055989550
+      Untitled video - Made with Clipchamp (1)_5: -582473271
+      Untitled video - Made with Clipchamp (1)_50: -1515535712
+      Untitled video - Made with Clipchamp (1)_51: 1201605663
+      Untitled video - Made with Clipchamp (1)_52: -660763892
+      Untitled video - Made with Clipchamp (1)_53: -1122276759
+      Untitled video - Made with Clipchamp (1)_54: -51773935
+      Untitled video - Made with Clipchamp (1)_55: 741322275
+      Untitled video - Made with Clipchamp (1)_56: -453932780
+      Untitled video - Made with Clipchamp (1)_57: -1570499759
+      Untitled video - Made with Clipchamp (1)_58: 1600202817
+      Untitled video - Made with Clipchamp (1)_59: 1967083206
+      Untitled video - Made with Clipchamp (1)_6: 2049193250
+      Untitled video - Made with Clipchamp (1)_60: -1178526388
+      Untitled video - Made with Clipchamp (1)_61: 545557588
+      Untitled video - Made with Clipchamp (1)_62: -1149658045
+      Untitled video - Made with Clipchamp (1)_63: 1323577480
+      Untitled video - Made with Clipchamp (1)_64: -382691429
+      Untitled video - Made with Clipchamp (1)_65: -263163308
+      Untitled video - Made with Clipchamp (1)_66: 1355529547
+      Untitled video - Made with Clipchamp (1)_67: -1478249250
+      Untitled video - Made with Clipchamp (1)_68: -661445231
+      Untitled video - Made with Clipchamp (1)_69: 1779844960
+      Untitled video - Made with Clipchamp (1)_7: -1208642638
+      Untitled video - Made with Clipchamp (1)_70: 973015769
+      Untitled video - Made with Clipchamp (1)_71: -1821907566
+      Untitled video - Made with Clipchamp (1)_72: 1122268387
+      Untitled video - Made with Clipchamp (1)_73: 1768047590
+      Untitled video - Made with Clipchamp (1)_74: 1856507732
+      Untitled video - Made with Clipchamp (1)_75: 1428444573
+      Untitled video - Made with Clipchamp (1)_76: -519548120
+      Untitled video - Made with Clipchamp (1)_77: -404696267
+      Untitled video - Made with Clipchamp (1)_78: -782214527
+      Untitled video - Made with Clipchamp (1)_79: -1963020404
+      Untitled video - Made with Clipchamp (1)_8: 1018101947
+      Untitled video - Made with Clipchamp (1)_80: -657332438
+      Untitled video - Made with Clipchamp (1)_81: 633194551
+      Untitled video - Made with Clipchamp (1)_82: 1269445045
+      Untitled video - Made with Clipchamp (1)_83: -1063833346
+      Untitled video - Made with Clipchamp (1)_84: -153553258
+      Untitled video - Made with Clipchamp (1)_85: -872038484
+      Untitled video - Made with Clipchamp (1)_86: -1090138699
+      Untitled video - Made with Clipchamp (1)_87: -1354495210
+      Untitled video - Made with Clipchamp (1)_88: -1514183803
+      Untitled video - Made with Clipchamp (1)_89: 1539187242
+      Untitled video - Made with Clipchamp (1)_9: 1545153805
+      Untitled video - Made with Clipchamp (1)_90: -418040605
+      Untitled video - Made with Clipchamp (1)_91: 1886440769
+      Untitled video - Made with Clipchamp (1)_92: -1023529385
+      Untitled video - Made with Clipchamp (1)_93: -1910313314
+      Untitled video - Made with Clipchamp (1)_94: -962760662
+      Untitled video - Made with Clipchamp (1)_95: -56150541
+      Untitled video - Made with Clipchamp (1)_96: -118249404
+      Untitled video - Made with Clipchamp (1)_97: -2129689184
+      Untitled video - Made with Clipchamp (1)_98: 1598465574
+      Untitled video - Made with Clipchamp (1)_99: -522739718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
