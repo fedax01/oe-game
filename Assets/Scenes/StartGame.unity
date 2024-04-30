@@ -405,7 +405,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.21265045}
   m_AnchorMax: {x: 1, y: 0.80787}
-  m_AnchoredPosition: {x: 0.00018310547, y: -1.4999542}
+  m_AnchoredPosition: {x: 0.00024414062, y: -1.499939}
   m_SizeDelta: {x: 501.17004, y: 199.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &255635133
@@ -695,7 +695,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.21265045}
   m_AnchorMax: {x: 1, y: 0.80787}
-  m_AnchoredPosition: {x: 0.00018310547, y: -1.4999542}
+  m_AnchoredPosition: {x: 0.00024414062, y: -1.499939}
   m_SizeDelta: {x: 501.17004, y: 199.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &487407146
@@ -774,7 +774,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.21265045}
   m_AnchorMax: {x: 1, y: 0.80787}
-  m_AnchoredPosition: {x: 0.00018310547, y: -1.4999542}
+  m_AnchoredPosition: {x: 0.00024414062, y: -1.499939}
   m_SizeDelta: {x: 501.17004, y: 199.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &509475839
@@ -853,7 +853,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.21265045}
   m_AnchorMax: {x: 1, y: 0.80787}
-  m_AnchoredPosition: {x: 0.00018310547, y: -1.4999542}
+  m_AnchoredPosition: {x: 0.00024414062, y: -1.499939}
   m_SizeDelta: {x: 501.17004, y: 199.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &558229913
@@ -1550,6 +1550,7 @@ GameObject:
   - component: {fileID: 1335346171}
   - component: {fileID: 1335346170}
   - component: {fileID: 1335346169}
+  - component: {fileID: 1335346172}
   m_Layer: 5
   m_Name: OKButton (Legacy)
   m_TagString: Untagged
@@ -1621,9 +1622,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 207285061}
-        m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene
+      - m_Target: {fileID: 1335346172}
+        m_TargetAssemblyTypeName: Test, Assembly-CSharp
+        m_MethodName: Run
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1671,6 +1672,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1335346167}
   m_CullTransparentMesh: 1
+--- !u!114 &1335346172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335346167}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b366f0a92e1b54fa2e620be193811f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popup: {fileID: 1668604254}
+  inputField: {fileID: 2057426345}
 --- !u!1 &1516821709
 GameObject:
   m_ObjectHideFlags: 0
@@ -1800,6 +1815,7 @@ GameObject:
   - component: {fileID: 1827677724}
   - component: {fileID: 1827677723}
   - component: {fileID: 1827677722}
+  - component: {fileID: 1827677725}
   m_Layer: 5
   m_Name: StartGameButton (Legacy)
   m_TagString: Untagged
@@ -1871,10 +1887,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1668604254}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 1827677725}
+        m_TargetAssemblyTypeName: NewGameButtonScript, Assembly-CSharp
+        m_MethodName: StartGame
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1921,6 +1937,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1827677720}
   m_CullTransparentMesh: 1
+--- !u!114 &1827677725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827677720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82eebd2ce806b3b44b727dad21000261, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1941379508
 GameObject:
   m_ObjectHideFlags: 0
