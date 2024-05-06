@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using System.Linq;
+using static UnityEditor.Experimental.AssetDatabaseExperimental.AssetDatabaseCounters;
+using UnityEngine.UI;
 
 public class LeaderboardManager : MonoBehaviour
 {
@@ -22,7 +24,8 @@ public class LeaderboardManager : MonoBehaviour
             }
             return scores;
         }
-        return new string[0,0];
+        string[,] empty = new string[1, 2] { {"","0"} };
+        return empty;
         
     } 
     public bool SaveScores(string name, int scores)
@@ -43,7 +46,8 @@ public class LeaderboardManager : MonoBehaviour
             newScores[db, 1] = currentScores[i, 1];
             db++;
 
-            if (int.Parse(currentScores[i,1]) >= scores && int.Parse(currentScores[i + 1, 1]) <= scores)
+           
+            if (int.Parse(currentScores[i,1]) > scores && int.Parse(currentScores[i + 1, 1]) <= scores)
             {
                 newScores[db, 0] = name;
                 newScores[db, 1] = scores.ToString();
@@ -58,12 +62,30 @@ public class LeaderboardManager : MonoBehaviour
         {
             newScores[db,0] = name;
             newScores[db, 1] = scores.ToString();
+            db++;
         }
+        string filerows = "";
+        for (int i = 0; i < newScores.GetLength(0); i++)
+        {
+            filerows += newScores[i, 0] + ";" + newScores[i,1] + "\n";
+        }
+        string folder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+        string specificFolder = Path.Combine(folder, "Wizard in the forest");
+        if (Directory.Exists(specificFolder) == false)
+        {
+            Directory.CreateDirectory(specificFolder);
+        }
+        string filename = Path.Combine(specificFolder, "leaderboard.txt");
+        File.WriteAllText(filename, filerows);
+
+        return true;
     }
     // Start is called before the first frame update
     void Start()
     {
-        
+       int score =  PlayerPrefs.GetInt("score");
+        string playerName = PlayerPrefs.GetString("username");
+        SaveScores(playerName, score);
     }
 
     // Update is called once per frame
