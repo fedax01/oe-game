@@ -7,6 +7,7 @@ public class NewGameButtonScript : MonoBehaviour
 {
     public void StartGame()
     {
+        PlayerPrefs.SetInt("score", 0);
         SceneManager.LoadScene("Game");
     }
     // Start is called before the first frame update

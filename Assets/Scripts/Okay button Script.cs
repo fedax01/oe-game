@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Test : MonoBehaviour
+public class OkayButtonScript : MonoBehaviour
 {
     public GameObject popup;
     public InputField inputField;
@@ -23,5 +23,11 @@ public class Test : MonoBehaviour
     void Update()
     {
         
+    }
+    public void Cancel()
+    {
+        PlayerPrefs.SetString("username", "Anonymous");
+        Destroy(popup);
+
     }
 }

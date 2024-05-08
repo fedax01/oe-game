@@ -9,18 +9,31 @@ using UnityEngine.UI;
 
 public class LeaderboardManager : MonoBehaviour
 {
+    public bool autoSave;
+    public bool autoPrint;
+    string specificFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Wizard in the forest");
     public string[,] LoadScore()
     {
-        if (File.Exists("leaderboard.txt"))
+        string leaderboardTxt = Path.Combine(specificFolder, "leaderboard.txt");
+        if (File.Exists(leaderboardTxt))
         {
-            string[] rows = File.ReadAllLines("leaderboard.txt");
+            string[] rows = File.ReadAllLines(leaderboardTxt);
             string[,] scores = new string[rows.Length,2];
             
             for (int i = 0; i < rows.Length; i++)
             {
                 string[] row = rows[i].Split(';');
-                scores[i,0] = row[0];
-                scores[i, 1] = row[1];
+                if (row.Length == 2)
+                {
+                    scores[i, 0] = row[0];
+                    scores[i, 1] = row[1];
+                }
+                else
+                {
+                    scores[i, 0] = "";
+                    scores[i, 1] = "0";
+                }
+                
             }
             return scores;
         }
@@ -69,8 +82,8 @@ public class LeaderboardManager : MonoBehaviour
         {
             filerows += newScores[i, 0] + ";" + newScores[i,1] + "\n";
         }
-        string folder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
-        string specificFolder = Path.Combine(folder, "Wizard in the forest");
+       
+        print(specificFolder);
         if (Directory.Exists(specificFolder) == false)
         {
             Directory.CreateDirectory(specificFolder);
@@ -83,14 +96,35 @@ public class LeaderboardManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       int score =  PlayerPrefs.GetInt("score");
-        string playerName = PlayerPrefs.GetString("username");
-        SaveScores(playerName, score);
+        if (autoSave == true)
+        {
+            int score = PlayerPrefs.GetInt("score");
+            string playerName = PlayerPrefs.GetString("username");
+            SaveScores(playerName, score);
+        }
+        if (autoPrint == true)
+        {
+            PrintLeaderBoard();
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+    private void PrintLeaderBoard()
+    {
+        string[,] leaderboard = LoadScore();
+        Text text = gameObject.GetComponent<Text>();
+        text.text = string.Empty;
+        for (int i = 0;i < leaderboard.GetLength(0);i++)
+        {
+            text.text += leaderboard[i,0];
+            text.text += " ";
+            text.text += leaderboard[i, 1];
+            text.text+= "\n";
+            
+        }
     }
 }
