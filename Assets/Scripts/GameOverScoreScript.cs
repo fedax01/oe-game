@@ -10,7 +10,7 @@ public class GameOverScoreScript : MonoBehaviour
     void Start()
     {
         int score =  PlayerPrefs.GetInt("score");
-        text.text = "pontok : "+ score;
+        text.text = "Points: "+ score;
     }
 
     // Update is called once per frame

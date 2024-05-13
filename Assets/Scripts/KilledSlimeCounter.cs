@@ -24,6 +24,6 @@ public class KilledSlimeCounter : MonoBehaviour
     {
         counter++;
         PlayerPrefs.SetInt("score", counter);
-        text.text = "Pontok :" +" "+ counter.ToString();
+        text.text = "Points: "+ counter.ToString();
     }
 }
