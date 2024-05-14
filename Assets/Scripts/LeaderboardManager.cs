@@ -46,7 +46,7 @@ public class LeaderboardManager : MonoBehaviour
         string[,] currentScores = LoadScore();
         string[,] newScores = new string[currentScores.GetLength(0) + 1, 2];
         int db = 0;
-        if (scores > int.Parse(currentScores[0,1]))
+        if (scores >= int.Parse(currentScores[0,1]))
         {
             newScores[db, 0] = name;
             newScores[db, 1] = scores.ToString();
@@ -100,6 +100,8 @@ public class LeaderboardManager : MonoBehaviour
         {
             int score = PlayerPrefs.GetInt("score");
             string playerName = PlayerPrefs.GetString("username");
+            print (score);
+            print(playerName);
             SaveScores(playerName, score);
         }
         if (autoPrint == true)
@@ -120,10 +122,14 @@ public class LeaderboardManager : MonoBehaviour
         text.text = string.Empty;
         for (int i = 0;i < leaderboard.GetLength(0);i++)
         {
-            text.text += leaderboard[i,0];
-            text.text += " ";
-            text.text += leaderboard[i, 1];
-            text.text+= "\n";
+            if (leaderboard[i,0] != "")
+            {
+                text.text += leaderboard[i, 0];
+                text.text += " ";
+                text.text += leaderboard[i, 1];
+                text.text += "\n";
+            }
+          
             
         }
     }
